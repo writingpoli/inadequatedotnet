@@ -1,0 +1,2 @@
+# inadequatedotnet
+Inadequate.net files
